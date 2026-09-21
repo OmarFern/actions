@@ -11,4 +11,8 @@ public class TestCase {
     public void testCaseInicial() {
         assertEquals("Hello World", App.saludar());
     }
+    @Test
+    public void testCaseFinal() {
+        assertEquals("Hello Pepe", App.saludar2());
+    }
 }
