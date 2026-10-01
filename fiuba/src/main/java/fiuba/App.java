@@ -6,7 +6,7 @@ public class App {
     }
 
     public static String saludar() {
-        return "Hello World2";
+        return "Hello World";
     }
     public static String saludar2() {
         return "Hello Pepe";
